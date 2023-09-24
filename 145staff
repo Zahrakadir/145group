@@ -1,0 +1,7 @@
+echo "# 145group" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git şube -M ana 
+git uzaktan ekle Origin https://github.com/Zahrakadir/145group.git
+ git push - ana menşein sen
